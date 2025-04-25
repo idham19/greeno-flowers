@@ -20,7 +20,7 @@
   "homepage": "https://github.com/MultiverseLearningProducts/greeno-flowers#readme",
   "dependencies": {
     "chalk": "5.0.1",
-    "express": "4.18.1",
+    "express": "^4.21.2",
     "greeno-flowers": "file:",
     "morgan": "1.10.0"
   },
