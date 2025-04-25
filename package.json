@@ -21,6 +21,7 @@
   "dependencies": {
     "chalk": "5.0.1",
     "express": "4.18.1",
+    "greeno-flowers": "file:",
     "morgan": "1.10.0"
   },
   "devDependencies": {
